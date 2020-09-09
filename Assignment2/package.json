@@ -1,0 +1,14 @@
+{
+  "name": "Assignment2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functionsToTest.js",
+  "scripts": {
+    "test": "mocha",
+    "say-hello": "echo 'Hello World'",
+    "jsdoc":"C:\Users\jerem\Documents\MIU\node_modules\.bin\jsdoc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
